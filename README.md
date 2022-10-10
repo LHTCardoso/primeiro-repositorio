@@ -8,7 +8,3 @@ Repositório para o desafio de projeto
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 ## *Início do projeto*
-
-# teste#
-[s](https://i.postimg.cc/g0RZtR14/mamaco.jpg)
-
