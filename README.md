@@ -1,2 +1,5 @@
-# Dio-desafio-github-primeiro-repositorio
-Desafio de projeto sobre git/github
+# Desafio de projeto sobre Git/Github
+Repositório
+
+##Meu Perfil
+[Não clique aqui] (https://github.com/LHTCardoso)
