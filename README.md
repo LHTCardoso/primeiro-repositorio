@@ -1,6 +1,6 @@
-### BASE TESTE ###
+# BASE TESTE #
 
-# Desafio de projeto sobre Git/Github
+## *Desafio de projeto sobre Git/Github*
 Repositório para o desafio de projeto
 
 ## *Meu Perfil*
