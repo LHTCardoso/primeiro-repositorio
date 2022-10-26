@@ -8,7 +8,9 @@ Repositório para o desafio de projeto
 # *Meu Perfil*
 
 
-[Não clique aqui](https://i.postimg.cc/g0RZtR14/mamaco.jpg) || [Risos](https://github.com/LHTCardoso)
+[Não clique aqui](https://i.postimg.cc/g0RZtR14/mamaco.jpg) || [Clique aqui](https://github.com/LHTCardoso)
+
+[Meu contato](https://api.whatsapp.com/send?phone=5527996631726&text=Salve%20cachorro%20do%20mangue)
 
 
 # *Guias básicos JAVA*
